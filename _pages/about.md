@@ -24,6 +24,7 @@ Professional Experience
 ======
 EV System Planning and Design (2024), WER/P&D, CLP Power, HONG KONG, China
 
+
 Single-phase Passive LED Driver Design (2023), UNITED GROUP (GLOBAL) LIMITED, HONG KONG, China
 
 3D Scanner Module Design (2021), Innovation Wing, The University of Hong Kong, HONG KONG, China
