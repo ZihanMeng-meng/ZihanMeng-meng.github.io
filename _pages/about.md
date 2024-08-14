@@ -11,6 +11,7 @@ I am now a PhD candidate from The University of Hong Kong,[Department of Electri
 
 I am a fan of fashion designs, movies and musics. I am also a authorized musician in [NetEase Music](https://music.163.com/#/artist?id=34602529)
 
-You can find my CV here: [ZihanMeng's CV] (..//assets/meng zihan cv.pdf)
+You can find my CV here: [ZihanMeng's CV] (..//assets/meng zihan cv.pdf).
+
 Let's chat!
 
