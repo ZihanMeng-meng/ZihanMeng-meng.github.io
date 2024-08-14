@@ -17,7 +17,8 @@ Let's chat!
 
 Education
 ======
-First Class Honour, Bachelor of Engineering (2024) (Electrical Engineering)
+First Class Honour, Bachelor of Engineering in Electrical Engineering
+
 UNIVERSITY OF HONG KONG, Hong Kong, China
 
 Professional Experience
@@ -32,16 +33,24 @@ Single-phase Passive LED Driver Design (2023), UNITED GROUP (GLOBAL) LIMITED, HO
 Exchange Experience
 ======
 Association of Pacific Rim Universities: Virtual Student Exchange 2023-24, THE CHINESE UNIVERSITY OF HONG KONG, Hong Kong, China
+
 2023 SDG Global Summer School, ZHEJIANG UNIVERSITY, Hangzhou, Zhejiang, China
+
 GLOBEX Julmester Program, PEKING UNIVERSITY, Beijing, China
+
 Peking University Summer School International, PEKING UNIVERSITY, Beijing, China
 
 Award
 ======
 ● 2024-2025 Hong Kong PhD Fellowship Scheme Award
+
 ● 2023-2024 Research Internship Award
+
 ● 2023-2024 Leung Wai Sun Prize in Electrical and Electronic Engineering
+
 ● 2022-2023 S Y King Memorial Scholarship in Electrical and Electronic Engineering
+
 ● 2022-2023 HK Electric Electrical Energy Scholarships
+
 ● 2021-2022 Yook Tong Electric Co. Ltd. Electrical Energy Scholarship
 
