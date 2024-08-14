@@ -16,13 +16,13 @@ You can find my CV here: [ZihanMeng's CV](assets/meng zihan cv.pdf).
 Let's chat!
 
 Education
-======
+------
 First Class Honour, Bachelor of Engineering in Electrical Engineering
 
 UNIVERSITY OF HONG KONG, Hong Kong, China
 
 Professional Experience
-======
+------
 EV System Planning and Design (2024), WER/P&D, CLP Power, HONG KONG, China
 
 Single-phase Passive LED Driver Design (2023), UNITED GROUP (GLOBAL) LIMITED, HONG KONG, China
@@ -30,7 +30,7 @@ Single-phase Passive LED Driver Design (2023), UNITED GROUP (GLOBAL) LIMITED, HO
 3D Scanner Module Design (2021), Innovation Wing, The University of Hong Kong, HONG KONG, China
 
 Exchange Experience
-======
+------
 Association of Pacific Rim Universities: Virtual Student Exchange 2023-24, THE CHINESE UNIVERSITY OF HONG KONG, Hong Kong, China
 
 2023 SDG Global Summer School, ZHEJIANG UNIVERSITY, Hangzhou, Zhejiang, China
@@ -40,7 +40,7 @@ GLOBEX Julmester Program, PEKING UNIVERSITY, Beijing, China
 Peking University Summer School International, PEKING UNIVERSITY, Beijing, China
 
 Award
-======
+------
 ● 2024-2025 Hong Kong PhD Fellowship Scheme Award
 
 ● 2023-2024 Research Internship Award
